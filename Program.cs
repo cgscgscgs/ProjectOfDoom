@@ -1,6 +1,6 @@
 ﻿/*  date            developer              changes
  *  3/5/2025        cgscgs                Initial Creation  
- * 
+ *  3/5/2025        cgscgs                Added a greeting
  * 
  * 
  * 
@@ -24,7 +24,7 @@ namespace ProjectOfDoom
         {
 
             Console.WriteLine("Howdy");
-
+            Console.WriteLine("What is your favorite number?");
         }
     }
 }
