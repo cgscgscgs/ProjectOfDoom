@@ -24,7 +24,10 @@ namespace ProjectOfDoom
         {
 
             Console.WriteLine("Howdy");
-            
+            Console.WriteLine("Snakes in my boot");
+            Console.WriteLine("Rainbows");
+
+
         }
     }
 }
