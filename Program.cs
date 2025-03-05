@@ -25,6 +25,7 @@ namespace ProjectOfDoom
 
             Console.WriteLine("Howdy");
             Console.WriteLine("What is your favorite number?");
+            Console.WriteLine("Good bye");
         }
     }
 }
